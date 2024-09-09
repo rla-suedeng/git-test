@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is a branchA file
+=======
 This is a test file
+>>>>>>> origin/master
